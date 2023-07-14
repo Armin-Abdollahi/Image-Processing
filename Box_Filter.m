@@ -1,5 +1,5 @@
 i = imread('cameraman.jpg');
-w = ones(3) / (9);
+w = ones(7) / (49);
 gd = imfilter(i,w);
 
 subplot(1,2,1);
