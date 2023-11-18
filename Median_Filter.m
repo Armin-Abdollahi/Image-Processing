@@ -1,5 +1,11 @@
+% Read image
 image = imread('cameraman.jpg');
-noisy_image = imnoise(image,'salt & pepper',0.05);
+
+%% Convert RGB image to grayscale
+gray_img = rgb2gray(image);
+
+%% Add salt and pepper noise
+noisy_image = imnoise(gray_img, 'salt & pepper', 0.2);
 
 %% Apply median filter
 filtered_image = medfilt2(noisy_image, [5,5]);
