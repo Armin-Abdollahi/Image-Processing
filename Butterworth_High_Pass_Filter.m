@@ -56,6 +56,5 @@ imshow(input_image);
 title('Original Image');
 
 subplot(1,2,2);
-imagesc(resultant_image);
-colormap gray;
-title('BHPF');
+imshow(resultant_image, []);
+title('Butterworth High Pass Filter');
