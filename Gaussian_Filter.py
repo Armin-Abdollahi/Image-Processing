@@ -15,7 +15,7 @@ filter_size = (5, 5)
 sigma = 3
 gaussian_filter = cv2.getGaussianKernel(filter_size[0], sigma) * cv2.getGaussianKernel(filter_size[1], sigma).T
 
-# Applying the Gaussian filter to the shifted Fourier transform
+# Applying the Gaussian filter to the Image
 filtered_image = cv2.filter2D(img, -1, gaussian_filter)
 
 # Display the original image and the reconstructed image
