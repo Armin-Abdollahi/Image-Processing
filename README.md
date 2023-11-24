@@ -1,2 +1,2 @@
 # Image-Filtering
-Some image filters in Matlab
+Some Image Processing filters in MATLAB & Python
