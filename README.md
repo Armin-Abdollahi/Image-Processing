@@ -2,7 +2,7 @@
 
 Image Processing filters in MATLAB & Python
 
-https://github.com/user-attachments/assets/d166d182-2511-49c3-b711-542690a69283
+https://github.com/user-attachments/assets/4ea1b55e-f6b1-42cd-983c-fecdabf42fc5
 
 You can see the Tutorial video of the Image Processing Filters on my YouTube channel:
 https://www.youtube.com/watch?v=fRVrkqmvTgM&t=2559s
