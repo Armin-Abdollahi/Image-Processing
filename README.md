@@ -24,7 +24,7 @@ Edge detection is a crucial technique in image processing that aims to identify 
 
 ![Screenshot (2190)](https://github.com/user-attachments/assets/5400fc56-5aae-4925-990b-dcf391cd8ac2)
 
-
+---
 
 ### Gaussian Filter in the Frequency Domain
 
@@ -33,7 +33,7 @@ Explore the code and experiment with different parameters to see how they affect
 
 ![Screenshot (2193)](https://github.com/user-attachments/assets/0aaee268-9351-411b-8052-4331cca561ec)
 
-
+---
 
 ### Histogram Adjustment
 
@@ -41,7 +41,7 @@ Histogram adjustment is a powerful technique in image processing that enhances t
 
 ![Screenshot (2196)](https://github.com/user-attachments/assets/151a13c1-0543-4623-b919-ae7bdab6873a)
 
-
+---
 
 ### Histogram Matching
 
@@ -49,7 +49,7 @@ Histogram matching is an essential technique in image processing that aims to tr
 
 ![Screenshot (2199)](https://github.com/user-attachments/assets/1b0e4d01-f070-4a42-87cf-20759886ff82)
 
-
+---
 
 ### Inverse Filtering in Image Processing
 
@@ -57,7 +57,7 @@ Inverse filtering is a powerful technique used in image processing to restore im
 
 ![Screenshot (2202)](https://github.com/user-attachments/assets/2dad0b80-af0a-4533-969b-42b30fdbc0d6)
 
-
+---
 
 ### Negative Image Transformation
 
@@ -65,7 +65,7 @@ Negative image transformation is a fundamental technique in image processing tha
 
 ![Screenshot (2209)](https://github.com/user-attachments/assets/f0a95ad9-213a-4dbd-888b-d91c3056c7c1)
 
-
+---
 
 ### Wiener Filtering in Image Restoration
 
