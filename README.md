@@ -1,20 +1,8 @@
 # Image-Processing-Filtering
 
-Some Image Processing filters in MATLAB & Python
+Image Processing filters in MATLAB & Python
 
-<img width="1097" alt="Screenshot (519) - Copy" src="https://github.com/Armin-Abdollahi/Image-Processing/assets/103449830/3f469683-6918-482b-8637-c0bf8a723b66">
-
-
-
-
-
-
-
-
-<video width="600" controls autoplay>
-  <source src="https://github.com/user-attachments/assets/307d01fd-1d1b-43bd-8e24-6f5c02afcc59" type="video/mp4">
-</video>
-
+https://github.com/user-attachments/assets/d166d182-2511-49c3-b711-542690a69283
 
 You can see the Tutorial video of the Image Processing Filters on my YouTube channel:
 https://www.youtube.com/watch?v=fRVrkqmvTgM&t=2559s
